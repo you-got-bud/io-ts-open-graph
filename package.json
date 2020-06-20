@@ -1,0 +1,10 @@
+{
+  "name": "io-ts-open-graph",
+  "author": {
+    "email": "brett@yougotbud.ca",
+    "name": "Brett Mandler"
+  },
+  "dependencies": {
+    "io-ts": "^2.2.6"
+  }
+}
