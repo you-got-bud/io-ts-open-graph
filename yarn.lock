@@ -2,7 +2,7 @@
 # yarn lockfile v1
 
 
-io-ts@^2.2.6:
-  version "2.2.6"
-  resolved "https://registry.yarnpkg.com/io-ts/-/io-ts-2.2.6.tgz#809305ef9af646c4edf79145671298835e321758"
-  integrity sha512-UcO9I/ptnGttBKRAF3KW0G6fiS7uqfjUSDdeq+qmMKH0k8sZrbDMnNP8I/TTSkoztPr5OZstnQxb1Vo5Ua8MOg==
+io-ts@^2.2.10:
+  version "2.2.10"
+  resolved "https://registry.yarnpkg.com/io-ts/-/io-ts-2.2.10.tgz#447d02df51717464a90712b146ec8dbc21b4a74b"
+  integrity sha512-WHx5jJe7hPpc6JoSIVbD+Xn6tYqe3cRvNpX24d8Wi15/kxhRWa8apo0Gzag6Xg99sCNY9OHKylw/Vhv0JAbNPQ==
