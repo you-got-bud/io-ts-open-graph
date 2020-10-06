@@ -5,6 +5,6 @@
     "name": "Brett Mandler"
   },
   "dependencies": {
-    "io-ts": "^2.2.6"
+    "io-ts": "^2.2.11"
   }
 }
